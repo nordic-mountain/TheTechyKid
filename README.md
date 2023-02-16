@@ -1,4 +1,4 @@
-# The-Techy-Kid
+# 👨‍💻 The-Techy-Kid
 Hello There I am The Techy Kid. 😎
 
 It's so nice to meet you. I am a Python🐍 programmer and currently learning Javascript☕.
