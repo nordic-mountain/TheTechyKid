@@ -1,9 +1,11 @@
 # 👨‍💻 The-Techy-Kid
-Hello There I am The Techy Kid. 😎
-
-It's so nice to meet you. I am a Python🐍 programmer and currently learning Javascript☕.
+Hello There I am TheTechy Kid. 😎
+I am a Python🐍 programmer and currently learning JavaScript☕!
 
 Anyways look around my GitHub!
 
-![417ebee986aec41629278b1e04cfbfe9](https://user-images.githubusercontent.com/111663675/218320523-7938baf8-40af-4047-aab2-3e1b29dd7061.gif)
+## My Projects
 
+- [Skyflix-v4.0.2](https://github.com/TheTechyKid/Skyflix-v4.0.2)
+- [Pocket-Wiki-1.0.1](https://github.com/TheTechyKid/Pocket-Wiki-1.0.1)
+- [YIS](https://github.com/TheTechyKid/YIS)
