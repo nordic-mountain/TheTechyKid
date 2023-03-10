@@ -1,10 +1,11 @@
-# TheTechyKid
-Hello There I am TheTechy Kid. 😎
-I am a Python🐍 programmer and currently learning JavaScript☕!
 
+# TheTechyKid
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=TheTechyKid&style=flat-square&color=blue" alt="">
 </div>
+
+Hello There I am TheTechy Kid. 😎
+I am a Python🐍 programmer and currently learning JavaScript☕!
 
 ## My Projects
 
