@@ -5,10 +5,9 @@ I am a Python🐍 programmer and currently learning JavaScript☕!
 Anyways look around my GitHub!
 
 
-<a href='http://www.freevisitorcounters.com'>Free counter</a> 
-<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=7c0f69d80f5e63fca79417e36dc3889036470d32'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1008627/t/5"></script>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## 📺 My Projects
 
