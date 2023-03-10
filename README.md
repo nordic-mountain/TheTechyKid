@@ -1,13 +1,12 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 👨‍💻 The-Techy-Kid
 Hello There I am TheTechy Kid. 😎
 I am a Python🐍 programmer and currently learning JavaScript☕!
 
 Anyways look around my GitHub!
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ## 📺 My Projects
 
