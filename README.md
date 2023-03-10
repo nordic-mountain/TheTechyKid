@@ -4,7 +4,9 @@ I am a Python🐍 programmer and currently learning JavaScript☕!
 
 Anyways look around my GitHub!
 
-<img src="https://komarev.com/ghpvc/?username=TheTechyKid&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheTechyKid&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ## 📺 My Projects
