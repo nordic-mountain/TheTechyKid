@@ -1,13 +1,15 @@
-
-# TheTechyKid
-Hello There I am TheTechy Kid. 😎
-I am a Python🐍 programmer and currently learning JavaScript☕!
+## TheTechyKid
 
 ``` python
 # HloWrld.py
 
 print("Hello Viewer!")
 ```
+
+* 📖 I am a Python Programmer.
+* 🎓 Currently learning Javascript.
+* 💡 Open to things?
+* 💻 Currently working on Javascript and Enigmis
 
 ## My Projects
 
