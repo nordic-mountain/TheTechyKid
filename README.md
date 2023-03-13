@@ -15,7 +15,7 @@ print("Hello Viewer!")
 - I am a Pyhon programmer.
 - I am learning Javascript.
 - Made a website in python using Flask
-- Made Ui in Python
+- Made UI in Python
 
 ## 💻 My Projects
 
