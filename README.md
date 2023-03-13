@@ -11,7 +11,7 @@ Hello there I am TheTechyKid!
 print("Hello Viewer!")
 ```
 
-## Skills
+## 🤹‍♂️ Skills
 - I am a Pyhon programmer.
 - I am learning Javascript.
 - Made a website in python using Flask
