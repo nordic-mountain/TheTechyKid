@@ -1,5 +1,5 @@
 
-![Profile Picture](https://avatars.githubusercontent.com/u/111663675?v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/111663675?v=2)
 
 ## TheTechyKid
 
