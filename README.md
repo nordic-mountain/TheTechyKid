@@ -1,6 +1,6 @@
 # TheTechyKid
 
-Hello I am TheTechyKid! I am a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programmer. I am currrently learning Javascript.
+Hello, I am TheTechyKid! I'm a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programmer, and I am currrently learning Javascript.
 
 * 📖 I am a Python Programmer.
 * 🎓 Currently learning Javascript.
