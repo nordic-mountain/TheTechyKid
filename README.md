@@ -1,6 +1,3 @@
-
-![Profile Picture](https://avatars.githubusercontent.com/u/111663675?v=2)
-
 ## TheTechyKid
 
 Hello there I am TheTechyKid!
