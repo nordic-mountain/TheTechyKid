@@ -1,7 +1,5 @@
 # TheTechyKid
 
-> "Algorithm: Word used by programmers when they don’t want to explain what they did." - Unknown
-
 Hello, I am TheTechyKid! I'm a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programmer, and I am currrently learning Javascript.
 
 * 📖 I am a Python Programmer.
@@ -27,3 +25,5 @@ print("Hello Viewer!")
 | Pocket-Wiki-1.0.1 | [Pocket-Wiki-1.0.1](https://github.com/TheTechyKid/Pocket-Wiki-1.0.1) |
 | YIS | [YIS](https://github.com/TheTechyKid/YIS) |
 | Enigmis | [Enigmis](https://github.com/TheTechyKid/Enigmis) |
+
+> "Algorithm: Word used by programmers when they don’t want to explain what they did." - Unknown
