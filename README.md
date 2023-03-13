@@ -1,4 +1,4 @@
-## TheTechyKid
+# TheTechyKid
 
 Hello there I am TheTechyKid!
 
