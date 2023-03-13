@@ -1,7 +1,6 @@
 # TheTechyKid
 
-"Algorithm: Word used by programmers when they don’t want to explain what they did."
-                                                               -Unknown
+> "Algorithm: Word used by programmers when they don’t want to explain what they did." - Unknown
 
 Hello, I am TheTechyKid! I'm a [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programmer, and I am currrently learning Javascript.
 
