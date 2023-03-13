@@ -1,15 +1,15 @@
 ## TheTechyKid
 
-``` python
-# HloWrld.py
-
-print("Hello Viewer!")
-```
+Hello there I am TheTechyKid!
 
 * 📖 I am a Python Programmer.
 * 🎓 Currently learning Javascript.
 * 💡 Open to things?
 * 💻 Currently working on Javascript and Enigmis
+
+``` python
+print("Hello Viewer!")
+```
 
 ## My Projects
 
