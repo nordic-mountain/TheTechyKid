@@ -26,3 +26,4 @@ print("Hello Viewer!")
 | Pocket-Wiki-1.0.1 | [Pocket-Wiki-1.0.1](https://github.com/TheTechyKid/Pocket-Wiki-1.0.1) |
 | YIS | [YIS](https://github.com/TheTechyKid/YIS) |
 | Enigmis | [Enigmis](https://github.com/TheTechyKid/Enigmis) |
+| Quote Generator | [Quote Generator](https://github.com/TheTechyKid/Quote-Generator) |
