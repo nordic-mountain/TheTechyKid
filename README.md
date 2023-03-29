@@ -28,4 +28,4 @@ print("Hello Viewer!")
 | Enigmis | [Enigmis](https://github.com/TheTechyKid/Enigmis) |
 | Quote Generator | [Quote Generator](https://github.com/TheTechyKid/Quote-Generator) |
 | GrdWizard | [GrdWizard](https://github.com/TheTechyKid/GrdWizard) |
-| Vial: Caesar Cipher | [GrdWizard](https://github.com/TheTechyKid/Vial-Caesar-Cipher) |
+| Vial: Caesar Cipher | [Vial](https://github.com/TheTechyKid/Vial-Caesar-Cipher) |
