@@ -27,3 +27,5 @@ print("Hello Viewer!")
 | YIS | [YIS](https://github.com/TheTechyKid/YIS) |
 | Enigmis | [Enigmis](https://github.com/TheTechyKid/Enigmis) |
 | Quote Generator | [Quote Generator](https://github.com/TheTechyKid/Quote-Generator) |
+| GrdWizard | [GrdWizard](https://github.com/TheTechyKid/GrdWizard) |
+| Vial: Caesar Cipher | [GrdWizard](https://github.com/TheTechyKid/Vial-Caesar-Cipher) |
