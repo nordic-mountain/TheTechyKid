@@ -6,7 +6,7 @@ Hello, I am TheTechyKid! I'm a [Python](https://en.wikipedia.org/wiki/Python_(pr
 * 📖 I am a Python Programmer.
 * 🎓 Currently learning Javascript.
 * 💡 Open to things?
-* 💻 Currently working on Javascript and Enigmis
+* 💻 Currently working on Javascript
 
 ``` python
 print("Hello Viewer!")
